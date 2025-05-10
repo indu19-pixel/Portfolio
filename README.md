@@ -1,1 +1,8 @@
-# Portfolio
+# Portfolio![get-in-touch](https://github.com/user-attachments/assets/31d6198a-ca86-4cab-b22d-e412b7bdd7f6)
+![certificates](https://github.com/user-attachments/assets/27f9d02c-6485-4aa9-b268-ec4e4cd1a527)
+![experience](https://github.com/user-attachments/assets/983537d6-e36e-4354-ae18-18f6c136f37c)
+![projects](https://github.com/user-attachments/assets/a4ee8517-ca6d-4927-a29b-66f9e39afce8)
+![education](https://github.com/user-attachments/assets/3848e09c-9937-4ddd-b057-c235e3e6cb8c)
+![skills](https://github.com/user-attachments/assets/e23ed2ef-6f8e-41b1-806e-33898e078aec)
+![about](https://github.com/user-attachments/assets/a464119f-ead3-435e-90dd-35561628db31)
+![home](https://github.com/user-attachments/assets/9dbe2329-3cb3-4688-ab80-8c7853367a2b)
